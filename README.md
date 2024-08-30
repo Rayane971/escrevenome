@@ -1,3 +1,3 @@
-# PROJETO ALURA 
+PROJETO ALURA 
 
-Nesses códigos se´r ossivel desenvolver um jogo no j5, onde podera desenhar através 
+Nesses códigos será possivel desenvolver um jogo no p5.js, onde poderá desenhar através do toque do mouse ou no toque do painel do notebook
